@@ -1,0 +1,5 @@
+rm(list = ls())
+install.packages("ggplot2")
+install.packages("latex2exp")
+install.packages("GenSA")
+install.packages("maxLik")
